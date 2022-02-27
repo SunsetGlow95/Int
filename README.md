@@ -1,3 +1,3 @@
 # Int
 
-这是一个基于C++的高精度整数库。正在开发中。
+This is a class of high-precision integer based on C++. And it's being developed.
